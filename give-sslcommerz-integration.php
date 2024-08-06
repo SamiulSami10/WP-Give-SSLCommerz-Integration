@@ -13,6 +13,7 @@ function custom_sslcommerz_gateway($gateways) {
         'checkout_label' => 'SSLCommerz',
     );
     return $gateways;
+    
 }
 
 
